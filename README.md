@@ -10,3 +10,8 @@ _Note: To run the program, first, you will need to ensure that your computer has
 
 1. We will have to start and run our Server first. To do that open your PC’s terminal and enter the following command: `python Server.py` 
 3. Now, open another terminal window (the number of terminal windows should be open according to the number of clients you want to have chatting with) to run the Client file and to start chatting. Run command `python Client.py`
+
+# Program Screenshots
+
+![image](https://github.com/ali101298/TCP_IP-Client-Sever-Chat-Program/assets/46939361/01a8cebf-ce35-4e6e-baad-dcf170efe145)
+
